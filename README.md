@@ -17,7 +17,7 @@ I am an M.Sc. student specializing in Quantum Technology at IISER Pune. My acade
 ## Programming & Tools
 
 - Python
-- Qiskit (Learning)
+- Qiskit(Currently Learning)
 - LaTeX
 - Git & GitHub
 
