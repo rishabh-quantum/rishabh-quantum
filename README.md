@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rishabh Anand 👋
 
-<!--
-**rishabh-quantum/rishabh-quantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.Sc. Student in Quantum Technology**  
+📍 **Indian Institute of Science Education and Research (IISER) Pune**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an M.Sc. student specializing in Quantum Technology at IISER Pune. My academic interests lie in Quantum Information Theory, Quantum Error Correction, Open Quantum Systems, and Quantum Computing. I enjoy combining theoretical understanding with computational tools to explore problems in quantum science.
+
+## Research Interests
+
+- Quantum Information Theory
+- Quantum Error Correction
+- Open Quantum Systems
+- Quantum Computing
+
+## Programming & Tools
+
+- Python
+- Qiskit (Learning)
+- LaTeX
+- Git & GitHub
+
+## Current Focus
+
+- Learning advanced concepts in Quantum Information Theory
+- Developing computational skills for quantum simulations
+- Building research projects in Quantum Error Correction(QEC)
+
+## Research Experience
+
+- Summer Research Intern, IIT Kharagpur (2026)
+
+---
+
+📫 **Feel free to connect regarding research collaborations and quantum technologies.**
