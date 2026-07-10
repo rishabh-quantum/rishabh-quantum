@@ -1,6 +1,6 @@
 # Hi, I'm Rishabh Anand 👋
 
-🎓 **M.Sc. Student in Quantum Technology**  
+🎓 **MS Student in Quantum Technology**  
 📍 **Indian Institute of Science Education and Research (IISER) Pune**
 
 ## About Me
