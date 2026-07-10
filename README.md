@@ -29,7 +29,8 @@ I am an M.Sc. student specializing in Quantum Technology at IISER Pune. My acade
 
 ## Research Experience
 
-- Summer Research Intern, IIT Kharagpur (2026)
+- Summer Research Intern, Department of Physics, IIT Kharagpur (2026)
+  - Project: [Quantum Error Correction based on Surface Code]
 
 ---
 
