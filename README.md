@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am an M.Sc. student specializing in Quantum Technology at IISER Pune. My academic interests lie in Quantum Information Theory, Quantum Error Correction, Open Quantum Systems, and Quantum Computing. I enjoy combining theoretical understanding with computational tools to explore problems in quantum science.
+I am a Master student specializing in Quantum Technology at IISER Pune. My academic interests lie in Quantum Information Theory, Quantum Error Correction, Open Quantum Systems, and Quantum Computing. I enjoy combining theoretical understanding with computational tools to explore problems in quantum science.
 
 ## Research Interests
 
